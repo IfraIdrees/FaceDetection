@@ -1,0 +1,39 @@
+{
+    "project_info": {
+      "project_number": "37823408660",
+      "project_id": "facecli",
+      "storage_bucket": "facecli.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:37823408660:android:f53bbb0b94276b53329501",
+          "android_client_info": {
+            "package_name": "com.facecli"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "37823408660-odivcbg5q1subekh5e99757rfci2peql.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyBmysvzK0UrqLWILqg7UPPghe2CwgN8foA"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "37823408660-odivcbg5q1subekh5e99757rfci2peql.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
